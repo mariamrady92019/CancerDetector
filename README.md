@@ -1,6 +1,6 @@
 # flutterapp
 
-A new Flutter project.
+A  Flutter project for Martian tech company.
 
 ## Getting Started
 
